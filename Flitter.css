@@ -1,0 +1,57 @@
+#FlitterIcon{
+    border-radius: 75%;
+    width: 100px;
+    height: 100px;
+}
+#mainDiv {
+    background-color: rgba(64, 224, 208,0.8);
+    align-items: center;
+    margin-left: 30%;
+    border-radius: 20%;
+    color:white;
+    font-weight: bold;
+}
+center {
+    display: block;
+    background-color: turquoise;
+}
+html {
+    background-color: rgb(64, 224, 208);
+    text-align: center;
+}
+body {
+    background-color: turquoise;
+}
+#output
+{
+	padding: 10px; width:80%;background: rgba(64, 224, 208,0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
